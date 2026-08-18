@@ -13,7 +13,7 @@
 Replace the placeholder below once the website is deployed:
 
 ```md
-[Visit the live portfolio](https://your-portfolio-url.com)
+[Visit the live portfolio](https://manmeet-portfolio-main.vercel.app/)
 ```
 
 ---
